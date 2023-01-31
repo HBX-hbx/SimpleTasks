@@ -1,0 +1,10 @@
+hw4/cls_reports
+hw4/results
+hw4/logs
+hw4/data
+
+hw3/fairseq
+hw3/mosesdecoder
+hw3/subword-nmt
+hw3/nmt/data/v16news
+hw3/nmt/models/v16news
